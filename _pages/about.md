@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a MS student in the [Department of Electrical and Electronics Engineering](https://ee.bilkent.edu.tr/en/) at [Bilkent University](https://w3.bilkent.edu.tr/bilkent/). I am working with [Prof. Tolga M. Duman](http://ctar.bilkent.edu.tr/index.php/tolga-m-duman/). My research interests lie at the intersection of machine learning and wireless communications.
+I am an MS student in the [Department of Electrical and Electronics Engineering](https://ee.bilkent.edu.tr/en/) at [Bilkent University](https://w3.bilkent.edu.tr/bilkent/). I am working with [Prof. Tolga M. Duman](http://ctar.bilkent.edu.tr/index.php/tolga-m-duman/). My research interests lie at the intersection of machine learning and wireless communications.
 
 I earned my Bachelor’s degree in [Electrical and Electronics Engineering](https://ee.bilkent.edu.tr/en/) from [Bilkent University](https://w3.bilkent.edu.tr/bilkent/).
 

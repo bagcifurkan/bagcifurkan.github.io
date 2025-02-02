@@ -1,13 +1,42 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hi everyone, I am Furkan"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am a MS student in the [Department of Electrical and Electronics Engineering](https://ee.bilkent.edu.tr/en/) at [Bilkent University](https://w3.bilkent.edu.tr/bilkent/). I am working with [Prof. Tolga M. Duman](http://ctar.bilkent.edu.tr/index.php/tolga-m-duman/). My research interests lie at the intersection of machine learning and wireless communications.
+
+I earned my Bachelor’s degree in [Electrical and Electronics Engineering](https://ee.bilkent.edu.tr/en/) from [Bilkent University](https://w3.bilkent.edu.tr/bilkent/).
+
+My research experience includes working on over-the-air federated learning over wireless channels, focusing on scheduling strategies for over-the-air federated learning with energy-harvesting devices under blind transmitters and wireless fading MAC.
+
+<!-- In my spare time, I enjoy swimming, playing football, and engaging in other fun activities. -->
+In my spare time, I enjoy swimming 🏊, playing football ⚽, and exploring other fun activities.
+
+Here is a link to my [CV](/files/FurkanBagci_CV25Jan.pdf).
+
+Publications
+======
+- **Update Estimation and Scheduling for Over-the-Air Federated Learning with Energy Harvesting Devices**  
+   **F Bagci**, B Tegin, M Kazemi, TM Duman   \\
+   _Preprint_ [**Link**](https://arxiv.org/abs/2501.18298)
+
+- **Relative Localization for Swarm Aerial Vehicles**  
+   Alptuğ Aytekin, **Furkan Bağcı**, Mustafa Bozdağ, Nisanur Camuzcu, Alperen Duru, Mehmet Saim Elma, Amirhossein Maghsoudi, Billur Barshan, Serdar Köse, Çağlar Akman \\
+   _30th Signal Processing and Communications Applications Conference (SIU), 2022_ [**Link**](https://doi.org/10.1109/SIU55565.2022.9864801)
+
+
+Achievements & Scholarships
+======
+-  
+- 
+- 
+
+
+<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
 ======
@@ -46,4 +75,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->

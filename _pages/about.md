@@ -22,7 +22,7 @@ Publications
 ======
 - **Update Estimation and Scheduling for Over-the-Air Federated Learning with Energy Harvesting Devices**  
    **F Bagci**, B Tegin, M Kazemi, TM Duman   \\
-   _Preprint_ [**Link**](https://arxiv.org/abs/2501.18298)
+   _Preprint_ [**Link**](https://arxiv.org/abs/2501.18298) [**Slides**](files\ICC2025_Furkan_unpause.pdf)
 
 - **Relative Localization for Swarm Aerial Vehicles**  
    Alptuğ Aytekin, **Furkan Bağcı**, Mustafa Bozdağ, Nisanur Camuzcu, Alperen Duru, Mehmet Saim Elma, Amirhossein Maghsoudi, Billur Barshan, Serdar Köse, Çağlar Akman \\

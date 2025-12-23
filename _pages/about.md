@@ -25,7 +25,7 @@ Publications
 ======
 - **Cluster-Aware Scheduling and Model Personalization in Over-the-Air Federated Learning with Energy Constraints** \\
     **F. Bagci**, B. Tegin, M. Kazemi, and T. M. Duman \\ 
-     -(under review, 2025)- 
+     _(under review, 2025)_
 
 
 - **Update Estimation and Scheduling for Over-the-Air Federated Learning with Energy Harvesting Devices**  

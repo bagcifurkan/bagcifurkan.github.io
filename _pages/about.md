@@ -24,8 +24,8 @@ Here is a link to my [CV](/files/FurkanBagci_CV25Dec.pdf).
 Publications
 ======
 - **Cluster-Aware Scheduling and Model Personalization in Over-the-Air Federated Learning with Energy Constraints** \\
-    \textbf{F. Bagci}, B. Tegin, M. Kazemi, and T. M. Duman \\ 
-     \textit{(under review, 2025)} 
+    **F. Bagci**, B. Tegin, M. Kazemi, and T. M. Duman \\ 
+     -(under review, 2025)- 
 
 
 - **Update Estimation and Scheduling for Over-the-Air Federated Learning with Energy Harvesting Devices**  
